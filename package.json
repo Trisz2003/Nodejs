@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trisz2003/Nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Trisz203",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trisz2003/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Trisz2003/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
